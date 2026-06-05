@@ -155,8 +155,5 @@ python ai_microservice.py
 python background_worker.py
 
 ```
-
-***
-*Platform ini dikembangkan oleh Tim Capstone CC26-PSU142.*
-
+***Platform ini dikembangkan oleh Tim Capstone CC26-PSU142.***
 ```
