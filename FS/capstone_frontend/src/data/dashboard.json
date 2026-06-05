@@ -1,0 +1,82 @@
+{
+  "stats": {
+    "totalCampaigns": "12 Active",
+    "totalReach": "8.4M Audience",
+    "engagementRate": "5.8%",
+    "budgetUsed": "Rp 50.000.000",
+    "roi": "3.2x Return"
+  },
+  "savedCreators": [
+    {
+      "id": 1,
+      "name": "Raditya Dika",
+      "handle": "@raditya_dika",
+      "location": "Jakarta Selatan",
+      "category": "Entertainer",
+      "followers": "22.3JT",
+      "engagement": "1.2%",
+      "avgViews": "700K",
+      "avatar": "https://i.pravatar.cc/80?img=11",
+      "platformIcons": ["yt", "ig", "tt"],
+      "saved": true,
+      "recentContent": [
+        { "id": 1, "imageUrl": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=300&q=70", "type": "video" },
+        { "id": 2, "imageUrl": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=300&q=70", "type": "video" },
+        { "id": 3, "imageUrl": "https://images.unsplash.com/photo-1516280440614-37939bbacd81?w=300&q=70", "type": "video" },
+        { "id": 4, "imageUrl": "https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?w=300&q=70", "type": "video" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Windah Basudara",
+      "handle": "@windahbasudara",
+      "location": "Bandung",
+      "category": "Gaming",
+      "followers": "18.7JT",
+      "engagement": "2.1%",
+      "avgViews": "1.2M",
+      "avatar": "https://i.pravatar.cc/80?img=14",
+      "platformIcons": ["yt", "ig"],
+      "saved": true,
+      "recentContent": [
+        { "id": 1, "imageUrl": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=300&q=70", "type": "video" },
+        { "id": 2, "imageUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=300&q=70", "type": "video" },
+        { "id": 3, "imageUrl": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=300&q=70", "type": "video" },
+        { "id": 4, "imageUrl": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300&q=70", "type": "video" }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Ria Ricis",
+      "handle": "@riaricis",
+      "location": "Jakarta",
+      "category": "Lifestyle",
+      "followers": "34.1JT",
+      "engagement": "0.9%",
+      "avgViews": "2.4M",
+      "avatar": "https://i.pravatar.cc/80?img=16",
+      "platformIcons": ["yt", "ig", "tt"],
+      "saved": false,
+      "recentContent": [
+        { "id": 1, "imageUrl": "https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?w=300&q=70", "type": "video" },
+        { "id": 2, "imageUrl": "https://images.unsplash.com/photo-1533227268428-f9ed0900fb3b?w=300&q=70", "type": "image" },
+        { "id": 3, "imageUrl": "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?w=300&q=70", "type": "video" },
+        { "id": 4, "imageUrl": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=300&q=70", "type": "image" }
+      ]
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "name": "Raditya Dika",
+      "avatar": "https://i.pravatar.cc/60?img=11",
+      "preview": "Halo, terima kasih sudah menghubungi. Boleh tahu konsep campaign dan deliverables yang diinginkan?"
+    },
+    {
+      "id": 2,
+      "name": "Windah Basudara",
+      "avatar": "https://i.pravatar.cc/60?img=14",
+      "preview": "Halo, terima kasih sudah menghubungi. Boleh tahu konsep campaign dan deliverables yang diinginkan?"
+    }
+  ]
+}
